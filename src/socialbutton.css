@@ -1,0 +1,38 @@
+.sbbg{
+    background-image: url('../src/Images/galaxy1.jpg');
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+.sbt1{
+    color: aliceblue;
+    font-size: 80px;
+    font-weight: bolder;
+}
+.sbb1{
+    background-color:yellow;
+    /* color: aliceblue; */
+    padding: 15px;
+    margin: 20px;
+    border-radius: 10px;
+    border: none;
+}
+.sbb2{
+    padding: 15px;
+    margin: 20px;
+    border-radius: 10px;
+    border: none;
+}
+.sbb3{
+    background-color: blue;
+    color: aliceblue;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 10px;
+    border: none;
+}
+.sbal{
+    /* justify-content: center; */
+    position: relative;
+    top:200px;
+}

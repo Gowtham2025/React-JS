@@ -1,0 +1,17 @@
+.fbbg{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    height: 100%;
+    width: 100%;
+}
+.fa1{
+    height: 40px;
+    width: 40px;
+    color: gold;
+    
+}
+.fa2{
+    height: 40px;
+    width: 40px;
+    color: red;
+    
+}

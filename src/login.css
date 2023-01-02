@@ -1,0 +1,33 @@
+.lgbg{
+    background-image:linear-gradient(purple, violet,pink);
+    height: 100vh;
+    width: 100%;
+}
+.lgimg{
+    height: 200px;
+    width: 200px;
+}
+#email{
+    border-radius: 10px;
+    border: none;
+    background-color: whitesmoke;
+}
+#psw{
+    border-radius: 10px;
+    border: none;
+    background-color: whitesmoke;
+}
+.lgbtn1{
+    width: 180px;
+    background-color: lime;
+    border-radius: 10px;
+    justify-content: center;
+    border: none;
+}
+.lgt1{
+    color: lime;
+}
+.lgbg2{
+    background-color: whitesmoke;
+    border-radius: 50%;
+}

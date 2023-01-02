@@ -1,0 +1,18 @@
+.rebg{
+    background-image: url('../Images/se.jpg');
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 15%;
+}
+.hsp1{
+    color: lime;
+    font-style: italic;
+}
+.hsp2{
+    color: orange;
+    font-style: italic;
+}
+.r1{
+    padding: 10%;
+}

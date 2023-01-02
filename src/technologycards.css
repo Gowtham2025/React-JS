@@ -1,0 +1,23 @@
+.tcim1{
+    height: 80px;
+    width: 80px;
+    float: right;
+}
+.tcc1{
+    border-radius: 5px;
+    border-top: 10px solid red;
+    
+}
+.tcc2{
+    border-radius: 5px;
+    border-top: 10px solid skyblue;
+}
+.tcc3{
+    border-radius: 5px;
+    border-top: 10px solid green;
+}
+.tcc4{
+    border-radius: 5px;
+    border-top: 8px solid gold;
+}
+
